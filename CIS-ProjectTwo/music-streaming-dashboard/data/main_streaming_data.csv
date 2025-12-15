@@ -1,0 +1,167 @@
+timestamp,user_id,song_id,artist_name,genre,device_type,song_duration_s
+2023-12-01 08:01:15,user_105,song_301,Luna Bloom,Pop,Mobile,185
+2023-12-01 08:03:45,user_102,song_402,The Midnight Echoes,Rock,Desktop,210
+2023-12-01 08:05:20,user_105,song_501,DJ ByteFlow,Electronic,Mobile,192
+2023-12-01 08:07:55,user_108,song_601,River & Reign,Country,Smart Speaker,175
+2023-12-01 08:09:30,user_110,song_702,Solstice Collective,R&B,Mobile,240
+2023-12-01 08:11:05,user_101,song_801,Crimson Wave,Rock,Desktop,150
+2023-12-01 08:14:10,user_103,song_302,Luna Bloom,Pop,Mobile,198
+2023-12-01 08:16:45,user_107,song_901,Neon Dreams,Electronic,Tablet,225
+2023-12-01 08:18:20,user_104,song_101,Atlas Rise,Rock,Desktop,165
+2023-12-01 08:20:55,user_109,song_201,Echo Valley,Jazz,Smart Speaker,205
+2023-12-01 08:22:30,user_106,song_303,Luna Bloom,Pop,Mobile,188
+2023-12-01 08:25:05,user_102,song_1101,Starlight Serenade,Classical,Desktop,215
+2023-12-01 08:27:40,user_112,song_502,DJ ByteFlow,Electronic,Mobile,195
+2023-12-01 08:30:15,user_101,song_403,The Midnight Echoes,Rock,Desktop,178
+2023-12-01 08:32:50,user_115,song_602,River & Reign,Country,Mobile,235
+2023-12-01 08:34:25,user_105,song_802,Crimson Wave,Rock,Mobile,155
+2023-12-01 08:37:00,user_103,song_304,Luna Bloom,Pop,Mobile,201
+2023-12-01 08:39:35,user_111,song_703,Solstice Collective,R&B,Tablet,228
+2023-12-01 08:41:10,user_108,song_102,Atlas Rise,Rock,Smart Speaker,168
+2023-12-01 08:43:45,user_102,song_902,Neon Dreams,Electronic,Desktop,208
+2023-12-01 08:46:20,user_107,song_305,Luna Bloom,Pop,Mobile,181
+2023-12-01 08:48:55,user_104,song_404,The Midnight Echoes,Rock,Desktop,218
+2023-12-01 08:51:30,user_113,song_503,DJ ByteFlow,Electronic,Mobile,193
+2023-12-01 08:54:05,user_101,song_603,River & Reign,Country,Desktop,172
+2023-12-01 08:56:40,user_114,song_704,Solstice Collective,R&B,Tablet,245
+2023-12-01 08:59:15,user_106,song_803,Crimson Wave,Rock,Mobile,148
+2023-12-01 09:01:50,user_103,song_306,Luna Bloom,Pop,Mobile,199
+2023-12-01 09:04:25,user_110,song_903,Neon Dreams,Electronic,Smart Speaker,231
+2023-12-01 09:06:00,user_109,song_103,Atlas Rise,Rock,Mobile,162
+2023-12-01 09:08:35,user_105,song_202,Echo Valley,Jazz,Mobile,203
+2023-12-01 09:11:10,user_102,song_307,Luna Bloom,Pop,Desktop,186
+2023-12-01 09:13:45,user_112,song_1102,Starlight Serenade,Classical,Mobile,212
+2023-12-01 09:16:20,user_101,song_504,DJ ByteFlow,Electronic,Desktop,196
+2023-12-01 09:18:55,user_115,song_405,The Midnight Echoes,Rock,Mobile,176
+2023-12-01 09:21:30,user_108,song_604,River & Reign,Country,Smart Speaker,238
+2023-12-01 09:24:05,user_104,song_804,Crimson Wave,Rock,Desktop,152
+2023-12-01 09:26:40,user_107,song_308,Luna Bloom,Pop,Mobile,200
+2023-12-01 09:29:15,user_111,song_705,Solstice Collective,R&B,Tablet,226
+2023-12-01 09:31:50,user_103,song_104,Atlas Rise,Rock,Mobile,166
+2023-12-01 09:34:25,user_113,song_904,Neon Dreams,Electronic,Mobile,206
+2023-12-01 09:37:00,user_106,song_309,Luna Bloom,Pop,Mobile,189
+2023-12-01 09:39:35,user_102,song_406,The Midnight Echoes,Rock,Desktop,216
+2023-12-01 09:42:10,user_114,song_505,DJ ByteFlow,Electronic,Tablet,194
+2023-12-01 09:44:45,user_101,song_605,River & Reign,Country,Desktop,179
+2023-12-01 09:47:20,user_110,song_706,Solstice Collective,R&B,Smart Speaker,236
+2023-12-01 09:49:55,user_109,song_805,Crimson Wave,Rock,Mobile,158
+2023-12-01 09:52:30,user_105,song_310,Luna Bloom,Pop,Mobile,202
+2023-12-01 09:55:05,user_108,song_905,Neon Dreams,Electronic,Smart Speaker,229
+2023-12-01 09:57:40,user_104,song_105,Atlas Rise,Rock,Desktop,169
+2023-12-01 10:00:15,user_102,song_203,Echo Valley,Jazz,Desktop,209
+2023-12-01 10:02:50,user_107,song_311,Luna Bloom,Pop,Mobile,182
+2023-12-01 10:05:25,user_112,song_1103,Starlight Serenade,Classical,Mobile,220
+2023-12-01 10:08:00,user_101,song_506,DJ ByteFlow,Electronic,Desktop,190
+2023-12-01 10:10:35,user_115,song_407,The Midnight Echoes,Rock,Mobile,173
+2023-12-01 10:13:10,user_103,song_606,River & Reign,Country,Mobile,242
+2023-12-01 10:15:45,user_106,song_806,Crimson Wave,Rock,Mobile,145
+2023-12-01 10:18:20,user_111,song_312,Luna Bloom,Pop,Tablet,197
+2023-12-01 10:20:55,user_109,song_707,Solstice Collective,R&B,Mobile,232
+2023-12-01 10:23:30,user_105,song_106,Atlas Rise,Rock,Mobile,163
+2023-12-01 10:26:05,user_108,song_906,Neon Dreams,Electronic,Smart Speaker,204
+2023-12-01 10:28:40,user_102,song_313,Luna Bloom,Pop,Desktop,187
+2023-12-01 10:31:15,user_113,song_408,The Midnight Echoes,Rock,Mobile,213
+2023-12-01 10:33:50,user_104,song_507,DJ ByteFlow,Electronic,Desktop,191
+2023-12-01 10:36:25,user_101,song_607,River & Reign,Country,Desktop,177
+2023-12-01 10:39:00,user_114,song_708,Solstice Collective,R&B,Tablet,239
+2023-12-01 10:41:35,user_107,song_807,Crimson Wave,Rock,Mobile,153
+2023-12-01 10:44:10,user_110,song_314,Luna Bloom,Pop,Smart Speaker,207
+2023-12-01 10:46:45,user_106,song_907,Neon Dreams,Electronic,Mobile,227
+2023-12-01 10:49:20,user_103,song_107,Atlas Rise,Rock,Mobile,167
+2023-12-01 10:51:55,user_112,song_204,Echo Valley,Jazz,Mobile,211
+2023-12-01 10:54:30,user_109,song_315,Luna Bloom,Pop,Mobile,184
+2023-12-01 10:57:05,user_102,song_1104,Starlight Serenade,Classical,Desktop,219
+2023-12-01 10:59:40,user_115,song_508,DJ ByteFlow,Electronic,Mobile,180
+2023-12-02 11:02:15,user_101,song_409,The Midnight Echoes,Rock,Desktop,170
+2023-12-02 11:04:50,user_105,song_608,River & Reign,Country,Mobile,250
+2023-12-02 11:07:25,user_108,song_808,Crimson Wave,Rock,Smart Speaker,140
+2023-12-02 11:10:00,user_104,song_316,Luna Bloom,Pop,Desktop,222
+2023-12-02 11:12:35,user_111,song_709,Solstice Collective,R&B,Tablet,233
+2023-12-02 11:15:10,user_107,song_108,Atlas Rise,Rock,Mobile,160
+2023-12-02 11:17:45,user_103,song_908,Neon Dreams,Electronic,Mobile,214
+2023-12-02 11:20:20,user_113,song_317,Luna Bloom,Pop,Mobile,183
+2023-12-02 11:22:55,user_106,song_410,The Midnight Echoes,Rock,Mobile,221
+2023-12-02 11:25:30,user_102,song_509,DJ ByteFlow,Electronic,Desktop,174
+2023-12-02 11:28:05,user_114,song_609,River & Reign,Country,Tablet,248
+2023-12-02 11:30:40,user_101,song_809,Crimson Wave,Rock,Desktop,142
+2023-12-02 11:33:15,user_110,song_318,Luna Bloom,Pop,Smart Speaker,224
+2023-12-02 11:35:50,user_109,song_710,Solstice Collective,R&B,Mobile,237
+2023-12-02 11:38:25,user_105,song_109,Atlas Rise,Rock,Mobile,161
+2023-12-02 11:41:00,user_108,song_909,Neon Dreams,Electronic,Smart Speaker,217
+2023-12-02 11:43:35,user_102,song_319,Luna Bloom,Pop,Desktop,300
+2023-12-02 11:46:10,user_112,song_411,The Midnight Echoes,Rock,Mobile,310
+2023-12-02 11:48:45,user_115,song_510,DJ ByteFlow,Electronic,Mobile,120
+2023-12-02 11:51:20,user_104,song_610,River & Reign,Country,Desktop,110
+2023-12-02 11:53:55,user_107,song_810,Crimson Wave,Rock,Mobile,280
+2023-12-02 11:56:30,user_103,song_320,Luna Bloom,Pop,Mobile,290
+2023-12-02 11:59:05,user_111,song_711,Solstice Collective,R&B,Tablet,330
+2023-12-02 12:01:40,user_101,song_110,Atlas Rise,Rock,Desktop,350
+2023-12-02 12:04:15,user_113,song_910,Neon Dreams,Electronic,Mobile,90
+2023-12-02 12:06:50,user_106,song_321,Luna Bloom,Pop,Mobile,80
+2023-12-02 12:09:25,user_102,song_412,The Midnight Echoes,Rock,Desktop,400
+2023-12-02 12:12:00,user_114,song_511,DJ ByteFlow,Electronic,Tablet,75
+2023-12-02 12:14:35,user_110,song_611,River & Reign,Country,Smart Speaker,135
+2023-12-02 12:17:10,user_109,song_811,Crimson Wave,Rock,Mobile,265
+2023-12-02 12:19:45,user_105,song_322,Luna Bloom,Pop,Mobile,185
+2023-12-02 12:22:20,user_108,song_911,Neon Dreams,Electronic,Smart Speaker,205
+2023-12-02 12:24:55,user_104,song_111,Atlas Rise,Rock,Desktop,225
+2023-12-02 12:27:30,user_102,song_205,Echo Valley,Jazz,Desktop,165
+2023-12-02 12:30:05,user_107,song_323,Luna Bloom,Pop,Mobile,245
+2023-12-02 12:32:40,user_112,song_1105,Starlight Serenade,Classical,Mobile,155
+2023-12-02 12:35:15,user_101,song_512,DJ ByteFlow,Electronic,Desktop,195
+2023-12-02 12:37:50,user_115,song_413,The Midnight Echoes,Rock,Mobile,215
+2023-12-02 12:40:25,user_103,song_612,River & Reign,Country,Mobile,175
+2023-12-02 12:43:00,user_106,song_812,Crimson Wave,Rock,Mobile,235
+2023-12-02 12:45:35,user_111,song_324,Luna Bloom,Pop,Tablet,145
+2023-12-02 12:48:10,user_109,song_712,Solstice Collective,R&B,Mobile,255
+2023-12-02 12:50:45,user_105,song_112,Atlas Rise,Rock,Mobile,125
+2023-12-02 12:53:20,user_108,song_912,Neon Dreams,Electronic,Smart Speaker,275
+2023-12-02 12:55:55,user_102,song_325,Luna Bloom,Pop,Desktop,305
+2023-12-02 12:58:30,user_113,song_414,The Midnight Echoes,Rock,Mobile,325
+2023-12-03 13:01:05,user_104,song_513,DJ ByteFlow,Electronic,Desktop,95
+2023-12-03 13:03:40,user_101,song_613,River & Reign,Country,Desktop,345
+2023-12-03 13:06:15,user_114,song_713,Solstice Collective,R&B,Tablet,365
+2023-12-03 13:08:50,user_107,song_813,Crimson Wave,Rock,Mobile,65
+2023-12-03 13:11:25,user_110,song_326,Luna Bloom,Pop,Smart Speaker,385
+2023-12-03 13:14:00,user_106,song_913,Neon Dreams,Electronic,Mobile,405
+2023-12-03 13:16:35,user_103,song_113,Atlas Rise,Rock,Mobile,425
+2023-12-03 13:19:10,user_112,song_206,Echo Valley,Jazz,Mobile,445
+2023-12-03 13:21:45,user_109,song_327,Luna Bloom,Pop,Mobile,465
+2023-12-03 13:24:20,user_102,song_1106,Starlight Serenade,Classical,Desktop,485
+2023-12-03 13:26:55,user_115,song_514,DJ ByteFlow,Electronic,Mobile,505
+2023-12-03 13:29:30,user_101,song_415,The Midnight Echoes,Rock,Desktop,196
+2023-12-03 13:32:05,user_105,song_614,River & Reign,Country,Mobile,202
+2023-12-03 13:34:40,user_108,song_814,Crimson Wave,Rock,Smart Speaker,188
+2023-12-03 13:37:15,user_104,song_328,Luna Bloom,Pop,Desktop,176
+2023-12-03 13:39:50,user_111,song_714,Solstice Collective,R&B,Tablet,233
+2023-12-03 13:42:25,user_107,song_114,Atlas Rise,Rock,Mobile,151
+2023-12-03 13:45:00,user_103,song_914,Neon Dreams,Electronic,Mobile,268
+2023-12-03 13:47:35,user_113,song_329,Luna Bloom,Pop,Mobile,133
+2023-12-03 13:50:10,user_106,song_416,The Midnight Echoes,Rock,Mobile,299
+2023-12-03 13:52:45,user_102,song_515,DJ ByteFlow,Electronic,Desktop,318
+2023-12-03 13:55:20,user_114,song_615,River & Reign,Country,Tablet,108
+2023-12-03 13:57:55,user_101,song_815,Crimson Wave,Rock,Desktop,358
+2023-12-03 14:00:30,user_110,song_330,Luna Bloom,Pop,Smart Speaker,88
+2023-12-03 14:03:05,user_109,song_715,Solstice Collective,R&B,Mobile,388
+2023-12-03 14:05:40,user_105,song_115,Atlas Rise,Rock,Mobile,418
+2023-12-03 14:08:15,user_108,song_915,Neon Dreams,Electronic,Smart Speaker,192
+2023-12-03 14:10:50,user_104,song_207,Echo Valley,Jazz,Desktop,210
+2023-12-03 14:13:25,user_102,song_331,Luna Bloom,Pop,Desktop,185
+2023-12-03 14:16:00,user_107,song_1107,Starlight Serenade,Classical,Mobile,240
+2023-12-03 14:18:35,user_112,song_516,DJ ByteFlow,Electronic,Mobile,150
+2023-12-03 14:21:10,user_101,song_417,The Midnight Echoes,Rock,Desktop,198
+2023-12-03 14:23:45,user_115,song_616,River & Reign,Country,Mobile,225
+2023-12-03 14:26:20,user_103,song_816,Crimson Wave,Rock,Mobile,165
+2023-12-03 14:28:55,user_106,song_332,Luna Bloom,Pop,Mobile,205
+2023-12-03 14:31:30,user_111,song_716,Solstice Collective,R&B,Tablet,188
+2023-12-03 14:34:05,user_109,song_116,Atlas Rise,Rock,Mobile,215
+2023-12-03 14:36:40,user_105,song_916,Neon Dreams,Electronic,Mobile,195
+2023-12-03 14:39:15,user_108,song_208,Echo Valley,Jazz,Smart Speaker,178
+2023-12-03 14:41:50,user_102,song_333,Luna Bloom,Pop,Desktop,235
+2023-12-03 14:44:25,user_113,song_1108,Starlight Serenade,Classical,Mobile,155
+2023-12-03 14:47:00,user_104,song_517,DJ ByteFlow,Electronic,Desktop,201
+2023-12-03 14:49:35,user_101,song_418,The Midnight Echoes,Rock,Desktop,228
+2023-12-03 14:52:10,user_114,song_617,River & Reign,Country,Tablet,168
+2023-12-03 14:54:45,user_107,song_817,Crimson Wave,Rock,Mobile,208
+2023-12-03 14:57:20,user_110,song_334,Luna Bloom,Pop,Smart Speaker,181
+2023-12-03 15:00:00,user_106,song_917,Neon Dreams,Electronic,Mobile,218
